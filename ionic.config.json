@@ -1,0 +1,7 @@
+{
+  "name": "Libre Scheduler",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
